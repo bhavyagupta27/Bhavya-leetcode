@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0344-reverse-string) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0394-decode-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
