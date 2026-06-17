@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
