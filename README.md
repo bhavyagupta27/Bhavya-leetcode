@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0054-spiral-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0217-contains-duplicate) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0394-decode-string) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0739-daily-temperatures) |
 ## Math
