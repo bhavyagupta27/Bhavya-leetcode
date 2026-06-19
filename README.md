@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
