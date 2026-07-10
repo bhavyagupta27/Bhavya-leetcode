@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0189-rotate-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0189-rotate-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0268-missing-number) |
