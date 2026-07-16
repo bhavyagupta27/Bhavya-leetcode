@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0566-reshape-the-matrix) |
+| [1920-build-array-from-permutation](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
