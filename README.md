@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0217-contains-duplicate) |
@@ -269,5 +270,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
