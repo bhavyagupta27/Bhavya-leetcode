@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Design
 |  |
@@ -278,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0268-missing-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
