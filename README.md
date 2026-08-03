@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1470-shuffle-the-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Design
 |  |
@@ -293,4 +296,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0509-fibonacci-number) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
