@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1929-concatenation-of-array) |
+| [3731-find-missing-elements](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0567-permutation-in-string) |
+| [3731-find-missing-elements](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
