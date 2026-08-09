@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0877-stone-game) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0268-missing-number) |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0877-stone-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
