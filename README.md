@@ -317,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0062-unique-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
