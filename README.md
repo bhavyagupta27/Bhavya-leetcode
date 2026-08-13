@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Backtracking
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Design
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0268-missing-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
 |  |
 | ------- |
