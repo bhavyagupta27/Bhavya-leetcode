@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0779-k-th-symbol-in-grammar) |
