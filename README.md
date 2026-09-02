@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Design
 |  |
 | ------- |
