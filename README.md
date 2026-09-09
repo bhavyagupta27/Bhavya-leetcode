@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0268-missing-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
