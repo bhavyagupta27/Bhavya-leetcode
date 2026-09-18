@@ -1,17 +1,17 @@
 class Solution {
-    public int searchInsert(int[] nums, int target) {
-        int lb = 0 ;
-        int ub = nums.length-1;
-        int ans = nums.length;
-        while(lb<=ub){
-            int mid = lb+(ub-lb)/2;
-            if(nums[mid]<target){
-                lb= mid+1;
+    public int searchInsert(int[] nums, int target) {        
+            int lo = 0 ; 
+            int hi = nums.length-1;
+            while(lo<=hi){
+            int mid = lo+(hi-lo)/2;
+            if(nums[mid]==target){
+                return mid;
+            }else if(nums[mid]<target){
+                lo=mid+1;
             }else{
-                ans=mid;
-                ub=mid-1;
+                hi=mid-1;
             }
-        }
-        return ans;
+            }
+return lo;
     }
 }
