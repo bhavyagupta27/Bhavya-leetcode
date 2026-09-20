@@ -10,9 +10,9 @@ class Solution {
         j++;
        } 
        if(i<word1.length()){
-        merged += word1.substring(i);
+        merged += word1.substring(i);i++;
        }else if(j<word2.length()){
-        merged += word2.substring(j);
+        merged += word2.substring(j);j++;
        }
        return merged;
     }
