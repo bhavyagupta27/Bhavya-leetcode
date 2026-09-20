@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0566-reshape-the-matrix) |
 | [1920-build-array-from-permutation](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0567-permutation-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
