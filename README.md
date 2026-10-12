@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0860-lemonade-change) |
 ## Matrix
 |  |
 | ------- |
