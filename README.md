@@ -361,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
