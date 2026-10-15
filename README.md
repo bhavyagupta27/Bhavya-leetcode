@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0739-daily-temperatures) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
