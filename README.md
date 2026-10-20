@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [2487-remove-nodes-from-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -231,12 +233,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/bhavyagupta27/Bhavya-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
