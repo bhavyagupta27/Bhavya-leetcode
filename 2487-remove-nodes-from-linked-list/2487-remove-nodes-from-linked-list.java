@@ -22,6 +22,8 @@ class Solution {
             ListNode top = st.pop();
             top.next = temp;
             temp = top;
+        
+        
         }
         return temp; 
     }
